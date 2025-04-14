@@ -1,0 +1,50 @@
+sway.service essway.service
+Attempting to fullscreen app_id=startRENPY
+[
+  {
+    "success": false,
+    "parse_error": false,
+    "error": "No matching node."
+  }
+]
+Failed, waiting to try again
+Attempting to fullscreen app_id=startRENPY
+[
+  {
+    "success": false,
+    "parse_error": false,
+    "error": "No matching node."
+  }
+]
+Failed, waiting to try again
+Attempting to fullscreen app_id=startRENPY
+[
+  {
+    "success": false,
+    "parse_error": false,
+    "error": "No matching node."
+  }
+]
+Failed, waiting to try again
+Attempting to fullscreen app_id=startRENPY
+[
+  {
+    "success": false,
+    "parse_error": false,
+    "error": "No matching node."
+  }
+]
+Failed, waiting to try again
+Attempting to fullscreen app_id=startRENPY
+[
+  {
+    "success": false,
+    "parse_error": false,
+    "error": "No matching node."
+  }
+]
+Failed, waiting to try again
+Could not load /roms/ports/cutefamehalloweenbash/game/credits/credits_screen_template_1c.rpyc
+Could not load /roms/ports/cutefamehalloweenbash/game/screens.rpyc
+Could not load /roms/ports/cutefamehalloweenbash/game/script.rpyc
+[GPTK]: Killing: startRENPY
